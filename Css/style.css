@@ -1,0 +1,27 @@
+* body {
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    font-family: 'Poppins', sans-serif;
+}
+/* Navbar Start */
+.image-logo {
+    width: 70px;
+    height: 70px;
+}
+
+.bg-image {
+    background-image: url("../img/1.jpg");
+    height: 100vh;
+    background-position: bottom;
+    background-image: fixed;
+    background-size: cover;
+    color: #ffffff;
+}
+
+/* Footer Start */
+.bg-footer,
+.bg-footer a {
+    background-color: #303030;
+    color: rgb(255, 255, 255) !important;
+}
+/* Navbar End */
